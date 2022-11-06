@@ -360,7 +360,7 @@ Specify a configuration service endpoint, see [Configuration Extension](./100-ex
 
 ### `WOODPECKER_GITHUB_...`
 
-See [Github configuration](forges/github/#configuration)
+See [GitHub configuration](forges/github/#configuration)
 
 ### `WOODPECKER_GOGS_...`
 
@@ -380,7 +380,7 @@ See [Bitbucket server configuration](forges/bitbucket_server/#configuration)
 
 ### `WOODPECKER_GITLAB_...`
 
-See [Gitlab configuration](forges/gitlab/#configuration)
+See [GitLab configuration](forges/gitlab/#configuration)
 
 ### `WOODPECKER_CODING_...`
 
