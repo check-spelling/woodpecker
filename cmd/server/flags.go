@@ -364,7 +364,7 @@ var flags = []cli.Flag{
 		FilePath: os.Getenv("WOODPECKER_BITBUCKET_SECRET_FILE"),
 	},
 	//
-	// Gitlab
+	// GitLab
 	//
 	&cli.BoolFlag{
 		EnvVars: []string{"WOODPECKER_GITLAB"},

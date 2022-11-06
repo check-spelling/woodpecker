@@ -27,7 +27,7 @@ var (
 	ServiceHookHeaders = http.Header{
 		"Content-Type":   []string{"application/json"},
 		"User-Agent":     []string{"GitLab/14.3.0"},
-		"X-Gitlab-Event": []string{"Service Hook"},
+		"X-GitLab-Event": []string{"Service Hook"},
 	}
 )
 

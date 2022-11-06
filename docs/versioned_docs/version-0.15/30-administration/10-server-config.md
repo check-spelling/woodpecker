@@ -310,7 +310,7 @@ See [Bitbucket server configuration](vcs/bitbucket_server/#configuration)
 
 ### `WOODPECKER_GITLAB_...`
 
-See [Gitlab configuration](vcs/gitlab/#configuration)
+See [GitLab configuration](vcs/gitlab/#configuration)
 
 ### `WOODPECKER_CODING_...`
 

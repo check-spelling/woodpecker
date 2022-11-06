@@ -64,7 +64,7 @@ func ParseRequest(r *http.Request, fn SecretFunc) (*Token, error) {
 		return parse(bearer, fn)
 	}
 
-	token = r.Header.Get("X-Gitlab-Token")
+	token = r.Header.Get("X-GitLab-Token")
 	if len(token) != 0 {
 		return parse(token, fn)
 	}

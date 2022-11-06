@@ -55,7 +55,7 @@ declare module '@vue/runtime-core' {
     InputField: typeof import('./src/components/form/InputField.vue')['default']
     IOcticonSkip24: typeof import('~icons/octicon/skip24')['default']
     IPhCheckCircle: typeof import('~icons/ph/check-circle')['default']
-    IPhGitlabLogoSimpleFill: typeof import('~icons/ph/gitlab-logo-simple-fill')['default']
+    IPhGitLabLogoSimpleFill: typeof import('~icons/ph/gitlab-logo-simple-fill')['default']
     IPhHand: typeof import('~icons/ph/hand')['default']
     IPhHourglass: typeof import('~icons/ph/hourglass')['default']
     IPhProhibit: typeof import('~icons/ph/prohibit')['default']
